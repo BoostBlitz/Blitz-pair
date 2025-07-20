@@ -55,10 +55,10 @@ await MegaMdEmpire.sendMessage(MegaMdEmpire.user.id, {
 📁ᴜᴘʟᴏᴀᴅ ᴛʜᴇ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴘʀᴏᴠɪᴅᴇᴅ ɪɴ ʏᴏᴜʀ sᴇssɪᴏɴ ғᴏʟᴅᴇʀ. 
 
 _*🪀sᴛᴀʏ ᴛᴜɴᴇᴅ ғᴏʟʟᴏᴡ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ:*_ 
-> _https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w_
+> _https://whatsapp.com/channel/0029Vb6XtOXIXnlvrjjWvC3C_
 
 _*ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ ᴍʏ  ᴛᴇʟᴇɢʀᴀᴍ:*_  
-> _t.me/LordMega0_
+> _t.me/aaw2b_
 
 
 > 🫩ʟᴀsᴛʟʏ ᴅᴏ ɴᴏᴛ sʜᴀʀᴇ ʏᴏᴜʀ sᴇssɪᴏɴ ɪᴅ ᴏʀ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ʙʀᴏ ᴀɴᴅ ғᴏʀ ᴀɴʏ ʜᴇʟᴘ _*ᴅᴍ ᴏᴡɴᴇʀ https://wa.me/256753679393*_  `,
@@ -66,9 +66,9 @@ _*ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ ᴍʏ  ᴛᴇʟᴇɢʀᴀᴍ:*_
   contextInfo: {
     externalAdReply: {
       title: "Successfully Generated Session",
-      body: "Mega-MD Session Generator 1",
-      thumbnailUrl: "https://cdn.ironman.my.id/i/ttlm6m.jpg",
-      sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
+      body: "Blitz Session Generator 1",
+      thumbnailUrl: "https://files.catbox.moe/iwh0qc.jpg",
+      sourceUrl: "https://whatsapp.com/channel/0029Vb6XtOXIXnlvrjjWvC3C",
       mediaType: 1,
       renderLargerThumbnail: true,
       showAdAttribution: true
